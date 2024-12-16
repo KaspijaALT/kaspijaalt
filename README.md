@@ -1,19 +1,14 @@
 # About Me
 
-Hi, I’m **Kaspars**, a 19-year-old web developer with a passion for building efficient web applications. I specialize in **Laravel**, troubleshooting, and testing websites to ensure everything works seamlessly.
+I’m a web developer focused on creating reliable and efficient web applications. Specializing in **Laravel**, I ensure seamless functionality through troubleshooting and testing.
 
 ## What I Do
 
-- Develop and test web applications using **Laravel** and **Vue.js**.  
-- Focus on creating clean, maintainable code.  
-- Collaborate on projects with a strong emphasis on teamwork and attention to detail.
+- Build and test web applications using **Laravel** and **Vue.js**.  
+- Write clean, maintainable code with attention to detail.  
+- Work collaboratively on team projects.
 
-### Recent Work
-I recently worked with my team to build a Laravel project. You can check it out here:  
+## Recent Work
+
+Collaborated on a Laravel project, available here:  
 [Marketplace - RSS](https://github.com/Brimsky/RSS)
-
-## Currently Learning
-
-Right now, i'm diving into **cybersecurity tools** and how **AI** is revolutionizing the development field.
-
-
