@@ -11,5 +11,5 @@ I’m a web developer focused on creating reliable and efficient web application
 ## Recent Work
 
 Collaborated on a Laravel project, available here:  
-[Marketplace - RSS](https://github.com/Brimsky/RSS)
+[Marketplace - RSS](https://github.com/Brimsky/RSS) ,
 [TapTag - Virtual Card](https://github.com/KaspijaALT/taptag.vc)
