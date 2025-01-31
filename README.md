@@ -1,41 +1,26 @@
-# About Me
+```bash
+$ whoami
+Full Stack Developer
 
-I'm a **full-stack developer** specializing in creating reliable and efficient applications. With expertise in **Laravel**, I ensure seamless functionality through thorough troubleshooting and testing.
+$ cat tech-stack.txt
 
----
+Backend:
+- Laravel
+- PHP
+- Python
 
-## Tech Stack  
+Frontend:
+- JavaScript
+- React
+- Vue
+- HTML/CSS
+- Tailwind CSS
 
-### Backend  
-- Laravel  
-- PHP  
-- Python  
+Database:
+- MySQL
 
-### Frontend  
-- JavaScript  
-- React  
-- Vue  
-- HTML  
-- CSS  
-- Tailwind CSS  
+DevOps:
+- Docker
 
-### Database  
-- MySQL  
-
-### DevOps  
-- Docker  
-
-### Version Control  
-- Git  
-- GitHub  
-
-### Design Tools  
-- Figma  
-
----
-
-## Recent Work  
-
-Here are some of my recent Laravel projects:  
-- [Marketplace - RSS](https://github.com/Brimsky/RSS)  
-- [TapTag - Virtual Card](https://github.com/KaspijaALT/taptag.vc)  
+Version Control:
+- Git/GitHub
